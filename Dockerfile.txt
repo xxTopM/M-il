@@ -1,4 +1,0 @@
-FROM nginx:alpine
-
-# Copy everything from your repo (index.html)
-COPY . /usr/share/nginx/html
